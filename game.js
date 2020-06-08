@@ -165,7 +165,7 @@ var f;
 
 function myFunction() {
     init();
-    f = setInterval(gameloop, 100);
+    f = setInterval(gameloop, 120);
     game_over = false;
 
 }
